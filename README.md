@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **more about flutter**
+- 🌱 I’m currently learning **more about flutter , reactNative and kotlin**
 
-- 💬 Ask me about **Flutter or any tech-related stuff.**
+- 💬 Ask me about **app or any tech-related stuff.**
 
 - 📫 How to reach me **Check social links below.**
 
