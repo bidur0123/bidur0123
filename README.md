@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-header.svg" alt="Bidur Gupta – Flutter and Mobile App Developer" width="100%" />
+<img src="profile-header.svg" alt="Bidur Gupta — Flutter and Mobile App Developer" width="100%" />
 
 <br/>
 
@@ -46,21 +46,15 @@ I'm a mobile app developer with hands-on experience building, maintaining and en
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,apple,firebase,git,figma,vscode,postman&perline=11" alt="Flutter, Dart, Kotlin, Swift, Android Studio, Apple, Firebase, Git, Figma, VS Code and Postman" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Objective--C-335A8C?style=flat-square&logo=apple&logoColor=white" alt="Objective-C" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Android%20%7C%20iOS%20%7C%20Desktop-64748B?style=flat-square" alt="Android, iOS and Desktop" />
-</p>
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bidur0123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB" alt="GitHub stats for bidur0123" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidur0123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=6" alt="Most used languages in public GitHub repositories" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bidur0123&amp;theme=github_dark" alt="GitHub stats for bidur0123" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bidur0123&amp;theme=github_dark" alt="Languages used in bidur0123 public GitHub repositories" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bidur0123&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=E5E7EB" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=bidur0123&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=22D3EE&amp;currStreakLabel=E5E7EB" alt="GitHub contribution streak" />
 </div>
 
 ---
