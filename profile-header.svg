@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="285" viewBox="0 0 1100 285" role="img" aria-label="Hi, I'm Bidur Gupta. Flutter and Mobile App Developer. Building and improving production-grade mobile and desktop applications with a focus on reliability, security and user experience.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset=".58" stop-color="#0b1930"/><stop offset="1" stop-color="#25123d"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#d946ef"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1100" height="285" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1098" height="283" rx="21" fill="none" stroke="#354366"/>
+<ellipse cx="860" cy="240" rx="210" ry="44" fill="#7c3aed" opacity=".25" filter="url(#glow)"/>
+<ellipse cx="995" cy="80" rx="110" ry="90" fill="#2563eb" opacity=".14" filter="url(#glow)"/>
+<text x="47" y="88" font-family="Segoe UI,Arial,sans-serif" font-weight="800" font-size="48" fill="#fff">Hi 👋, I'm <tspan fill="url(#name)">Bidur Gupta</tspan></text>
+<text x="49" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="650" fill="#dbeafe">Flutter &amp; Mobile App Developer</text>
+<rect x="49" y="159" width="4" height="56" rx="2" fill="#22d3ee"/>
+<text x="67" y="179" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#e2e8f0">Building and improving production-grade mobile and desktop</text>
+<text x="67" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#e2e8f0">applications with a focus on reliability, security and user experience.</text>
+<rect x="49" y="244" rx="3" width="155" height="4" fill="url(#line)"/>
+<!-- Stylized laptop and phone artwork -->
+<rect x="784" y="62" width="214" height="145" rx="13" fill="#17213a" stroke="#8793ef" stroke-width="3"/>
+<rect x="796" y="75" width="190" height="117" rx="6" fill="#081426"/>
+<circle cx="813" cy="87" r="3.5" fill="#fb7185"/><circle cx="827" cy="87" r="3.5" fill="#fbbf24"/><circle cx="841" cy="87" r="3.5" fill="#34d399"/>
+<g stroke-linecap="round" stroke-width="5"><path d="M818 110h57" stroke="#22d3ee"/><path d="M831 127h79" stroke="#8b5cf6"/><path d="M818 144h43" stroke="#60a5fa"/><path d="M831 161h88" stroke="#a78bfa"/><path d="M818 178h58" stroke="#22d3ee"/></g>
+<path d="M770 208h244l22 18H748z" fill="#6573aa" stroke="#a5b4fc" stroke-width="2"/>
+<path d="M829 214h134" stroke="#28385c" stroke-width="5"/>
+<rect x="972" y="117" width="84" height="137" rx="13" fill="#0f172a" stroke="#c084fc" stroke-width="4"/>
+<rect x="980" y="128" width="68" height="113" rx="5" fill="#1c1b42"/>
+<text x="994" y="198" font-family="monospace" font-size="28" font-weight="bold" fill="#d8b4fe">&lt;/&gt;</text>
+<circle cx="1014" cy="248" r="3" fill="#a78bfa"/>
+<path d="M726 228q-13-57 18-77q12-7 19 6q9 23-11 35q-21-9-27-35" fill="none" stroke="#4ade80" stroke-width="7" stroke-linecap="round"/>
+<rect x="716" y="217" width="47" height="37" rx="8" fill="#3b82f6"/>
+<path d="M0 268q165-40 315 11t330-9t455 0" fill="none" stroke="url(#line)" stroke-width="2" opacity=".35"/>
+</svg>
