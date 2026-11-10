@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="Bidur Gupta — Flutter and Mobile App Developer" width="100%" />
+<img src="profile-header.svg" alt="Bidur Gupta – Flutter and Mobile App Developer" width="100%" />
 
 <br/>
 
